@@ -2,7 +2,6 @@ asgiref @ file:///Users/ec2-user/ci_py311/asgiref_1678390266874/work
 dj-database-url==2.1.0
 Django @ file:///Users/ec2-user/ci_py311/django_1678411010555/work
 gunicorn==21.2.0
-packaging==23.1
-sqlparse @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cb77ukgrpu/croot/sqlparse_1690901947630/work
-typing_extensions==4.7.1
 whitenoise==6.5.0
+psycopg2-binary==2.9.3
+wheel==0.37.1
